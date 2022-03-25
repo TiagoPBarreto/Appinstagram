@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.MainActivity">
+
+  <include layout="@layout/toolbar"/>
+
+  <FrameLayout
+      android:id="@+id/vewPage"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_weight="1">
+
+  </FrameLayout>
+
+  <androidx.fragment.app.FragmentContainerView
+      android:id="@+id/nav_host_fragment"
+      android:name="androidx.navigation.fragment.NavHostFragment"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginBottom="312dp"
+      app:defaultNavHost="true"
+      app:layout_constraintBottom_toTopOf="@+id/bottom_navigation"
+      app:layout_constraintStart_toStartOf="parent"
+      app:navGraph="@navigation/nav_main" />
+
+  <com.google.android.material.bottomnavigation.BottomNavigationView
+      android:id="@+id/bottom_navigation"
+      style="@style/Widget.App.BottomNavigationView"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      app:itemIconTint="@color/purple_700"
+      app:itemTextColor="@color/purple_700"
+      app:menu="@menu/menu_bottom_navigation" />
+
+</LinearLayout>

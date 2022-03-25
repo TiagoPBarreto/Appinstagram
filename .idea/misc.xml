@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/drawable/background_botao.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/drawable/background_botao_perfil.xml" value="0.2105" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/drawable/background_caixa_texto.xml" value="0.231" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/drawable/bsckground_degrade.xml" value="0.252" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/drawable/ic_home_preto_24.xml" value="0.15" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/drawable/ic_perfil_preto_24.xml" value="0.15" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/drawable/ic_pesquisa_preto_24.xml" value="0.15" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/drawable/ic_postagem_preto_24.xml" value="0.15" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_cadastro.xml" value="0.3640625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_editar_perfil.xml" value="0.3640625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_editar_perfil2.xml" value="0.3640625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_filtro.xml" value="0.3765625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_login.xml" value="0.3640625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_perfil_amigo.xml" value="0.3765625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/layout/adapter_pesquisa_usuario.xml" value="0.3640625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/layout/bottom_navigation.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/layout/bottomnavigatiom.xml" value="0.3640625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/layout/carregando.xml" value="0.3776041666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/layout/fragment_feed.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/layout/fragment_perfil.xml" value="0.5" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/layout/fragment_pesquisa.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/layout/fragment_postagem.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/layout/grid_postagem.xml" value="0.3765625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/layout/toolbar.xml" value="0.3640625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.3640625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/menu/menu_file.xml" value="0.3765625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Instagram/app/src/main/res/menu/menu_main.xml" value="0.3640625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
